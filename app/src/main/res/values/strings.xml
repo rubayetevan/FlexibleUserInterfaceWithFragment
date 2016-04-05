@@ -1,0 +1,12 @@
+<resources>
+    <string-array
+        name="titles">
+        <item>text_string_1</item>
+        <item>text_string_2</item>
+        <item>text_string_3</item>
+        <item>text_string_4</item>
+        <item>text_string_5</item>
+    </string-array>
+
+    <string name="app_name">" Flexible User Interface With Fragment"</string>
+</resources>
